@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/source.gif?cid=ecf05e47y591jhbihjh98f1upwk10pa7j2i2lbs3lg2ohw6p&rid=source.gif&ct=s" width="60"> A little more about me...  
 
 ```swift
-const rodrigo = {
+let rodrigo = {
   pronouns: "He" | "His",
   code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS, Python],
   hobbies: ["Listening to music", "Playing computer games", "Playing board games", "D&D", "Cooking"],
