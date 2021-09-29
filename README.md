@@ -11,12 +11,14 @@
 ### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/source.gif?cid=ecf05e47y591jhbihjh98f1upwk10pa7j2i2lbs3lg2ohw6p&rid=source.gif&ct=s" width="60"> A little more about me...  
 
 ```swift
-let rodrigo = {
-  pronouns: "He" | "His",
-  code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS, Python],
-  hobbies: ["Listening to music", "Playing computer games", "Playing board games", "D&D", "Cooking"],
-  favoriteBand: "Twenty One Pilots"
-}
+var rodrigo: IosDeveloper = {
+  let dev = IosDeveloper()
+  dev.pronouns = "He" | "His",
+  dev.code = [Swift, Objective-C, Javascript, Typescript, HTML, CSS, Python],
+  dev.hobbies = ["Listening to music", "Playing computer games", "Playing board games", "D&D", "Cooking"],
+  dev.favoriteBand = "Twenty One Pilots"
+  return dev
+}()
 ```
 
  <div>
