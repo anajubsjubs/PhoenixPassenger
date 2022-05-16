@@ -3,7 +3,6 @@
 <p><em>Computer Science Student at <a href="https://ifce.edu.br">Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 </em></p>
 
-[![Twitter: RogridoSirva](https://img.shields.io/twitter/follow/rogridosirva?style=social)](https://twitter.com/RogridoSirva)
 [![Linkedin: rodrigoribeiroklr](https://img.shields.io/badge/-rodrigoribeiroklr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoribeiroklr//)](https://www.linkedin.com/in/rodrigoribeiroklr/)
 [![GitHub PhoenixPassenger](https://img.shields.io/github/followers/PhoenixPassenger?label=follow&style=social)](https://github.com/PhoenixPassenger)
 
